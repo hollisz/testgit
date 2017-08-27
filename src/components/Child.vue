@@ -164,7 +164,7 @@ ul {
 }
 
 .blue {
-  color: blue
+  color: navy
 }
 
 .Dto {
